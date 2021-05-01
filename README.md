@@ -1,5 +1,5 @@
 # test-task
-test task for Clover Dynamic company
+Test task for Clover Dynamic company 😎
 
 This project is build on React. 💠
 
