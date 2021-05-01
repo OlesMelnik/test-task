@@ -3,7 +3,7 @@ Test task for Clover Dynamic company 😎
 
 This project is build on React. 💠
 
-Create a folder on computer and download this project. Open Comand Line in this folder and install important models using command:
+Create a folder on computer and download this project. Open Comand Line in this folder and navigate to my-app folder. You need install important models using command:
 
 npm install
 
