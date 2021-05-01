@@ -1,14 +1,14 @@
 # test-task
-teask task for Clover Dynamic company
+test task for Clover Dynamic company
 
-If you wanna use this project download it and put it some folder.
-Run cmd in this folder.
+This project is build on React.
 
-First you need to install important models.
-Use this command to install npm models
+Download this project and run cmd from folder when you download it.
+
+First you need install important npm models
 
 npm install
 
-Now you just need to start project
+Then you just need start the project
 
 npm run start
